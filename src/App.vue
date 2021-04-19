@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <Titulo texto="Mi banco dinamico 2.0" /> 
+    <Titulo texto="Mi banco dinamico 2.1" /> 
     <Cuenta/>
   </div>
 </template>

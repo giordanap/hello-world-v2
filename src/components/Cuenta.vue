@@ -26,7 +26,7 @@ export default {
     data() {
         return {
             saldo: 1000,
-            cuenta: 'Visa',
+            cuenta: 'Master Card',
             estado: false,
             servicios: ['giro', 'abono', 'transferencia'],
             disable: false
